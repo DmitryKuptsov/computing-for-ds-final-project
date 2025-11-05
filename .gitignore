@@ -1,0 +1,5 @@
+home_credit_pipeline_backup/data/
+__pycache__/
+*.pyc
+home_credit_pipeline_backup/artifacts/
+home_credit_pipeline_backup/src/home_credit/utils/
